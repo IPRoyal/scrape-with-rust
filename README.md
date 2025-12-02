@@ -41,6 +41,7 @@ tokio = { version = "1.22.0", features = ["full"] }
 Example of this file can be found [here](examples/boilerplate-example/Cargo.toml)
 
 Now run the following command to install dependencies.
+
 ℹ️ Important: you will need to have [rust installed](https://rust-lang.org/tools/install/)
 
 ```shell
