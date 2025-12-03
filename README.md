@@ -1,4 +1,7 @@
-# Web Scraping With Rust - The Ultimate 2025 Guide
+# Web Scraping With Rust - The Ultimate 2025 Guide<a href="https://iproyal.com/proxies/">
+  <img width="2180" height="550" alt="GitHub Banner"
+       src="https://github.com/user-attachments/assets/c857fdbc-882d-4089-af87-cfa93408311d"></img>
+</a>
 
 While Python might be the most popular language for web scraping, you can do basic web scraping tasks with any language you’re proficient with. As long as the language has basic library support for getting HTML and parsing its contents, you’re good to go.
 
