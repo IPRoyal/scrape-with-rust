@@ -1,4 +1,5 @@
 # Web Scraping With Rust - The Ultimate 2025 Guide<a href="https://iproyal.com/proxies/">
+<a href="https://iproyal.com/proxies/">
   <img width="2180" height="550" alt="GitHub Banner"
        src="https://github.com/user-attachments/assets/c857fdbc-882d-4089-af87-cfa93408311d"></img>
 </a>
